@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 34e861c19b4d25f4da56c1656647fa09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7244312072911752631
+    second: Doctor Run_0
+  - first:
+      213: -7887083864295962646
+    second: Doctor Run_1
+  - first:
+      213: 1739369883373215501
+    second: Doctor Run_2
+  - first:
+      213: 1472935713544516842
+    second: Doctor Run_3
+  - first:
+      213: -4845541511552223561
+    second: Doctor Run_4
+  - first:
+      213: -7947106945348194997
+    second: Doctor Run_5
+  - first:
+      213: 3262509288982549128
+    second: Doctor Run_6
+  - first:
+      213: 6186399089861222678
+    second: Doctor Run_7
+  - first:
+      213: 580220324532702451
+    second: Doctor Run_8
+  - first:
+      213: -7095470854801454916
+    second: Doctor Run_9
+  - first:
+      213: 6979062655230506514
+    second: Doctor Run_10
+  - first:
+      213: 5795962303788148413
+    second: Doctor Run_11
+  - first:
+      213: 2271527302653459635
+    second: Doctor Run_12
+  - first:
+      213: 1313836179902853108
+    second: Doctor Run_13
+  - first:
+      213: 6309147097911681237
+    second: Doctor Run_14
+  - first:
+      213: 1404797317795437370
+    second: Doctor Run_15
+  - first:
+      213: 5669310800560816774
+    second: Doctor Run_16
+  - first:
+      213: 326219209409012615
+    second: Doctor Run_17
+  - first:
+      213: 6749399684395143253
+    second: Doctor Run_18
+  - first:
+      213: -1879706107792872969
+    second: Doctor Run_19
+  - first:
+      213: -7854443887201509019
+    second: Doctor Run_20
+  - first:
+      213: 686181110987752066
+    second: Doctor Run_21
+  - first:
+      213: 7626187945869593184
+    second: Doctor Run_22
+  - first:
+      213: 2454916451080814200
+    second: Doctor Run_23
+  - first:
+      213: -2472606070604833913
+    second: Doctor Run_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doctor Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2904
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd8af3c277f88460800000000000000
+      internalID: 7244312072911752631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2904
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae78ce253037b8290800000000000000
+      internalID: -7887083864295962646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2904
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f197f71bb732810800000000000000
+      internalID: 1739369883373215501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2904
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4bece3a3be07410800000000000000
+      internalID: 1472935713544516842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2904
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b635830bad21ccb0800000000000000
+      internalID: -4845541511552223561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2b7ab65436b190800000000000000
+      internalID: -7947106945348194997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882973ea9e2c64d20800000000000000
+      internalID: 3262509288982549128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6116afdf1318ad550800000000000000
+      internalID: 6186399089861222678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fccb3f9f4b5d0800800000000000000
+      internalID: 580220324532702451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb80c69d9d2d78d90800000000000000
+      internalID: -7095470854801454916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216753e128c9ad060800000000000000
+      internalID: 6979062655230506514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6e8d8c1056f6050800000000000000
+      internalID: 5795962303788148413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb244fb06168f10800000000000000
+      internalID: 2271527302653459635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff6a2c6b0fab3210800000000000000
+      internalID: 1313836179902853108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d066b6bbd79e8750800000000000000
+      internalID: 6309147097911681237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5e94b7b7de7310800000000000000
+      internalID: 1404797317795437370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68286b4c2207dae40800000000000000
+      internalID: 5669310800560816774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783abbf74a6f68400800000000000000
+      internalID: 326219209409012615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550918bc04faaad50800000000000000
+      internalID: 6749399684395143253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9afda0141f9e5e0800000000000000
+      internalID: -1879706107792872969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561ad1336e86ff290800000000000000
+      internalID: -7854443887201509019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282020cb51ec58900800000000000000
+      internalID: 686181110987752066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a4cef0889a5d960800000000000000
+      internalID: 7626187945869593184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e3feb618d911220800000000000000
+      internalID: 2454916451080814200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Run_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bdf1411e98fadd0800000000000000
+      internalID: -2472606070604833913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

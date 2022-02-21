@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: e2b04ed877f7fee4fbd7da96c9019530
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1502896435050246738
+    second: Doctor Die(with Mask)_0
+  - first:
+      213: 1251907113386399283
+    second: Doctor Die(with Mask)_1
+  - first:
+      213: 3078689277960423891
+    second: Doctor Die(with Mask)_2
+  - first:
+      213: -5671746522435691588
+    second: Doctor Die(with Mask)_3
+  - first:
+      213: -3062618454670903813
+    second: Doctor Die(with Mask)_4
+  - first:
+      213: 1918919840131804294
+    second: Doctor Die(with Mask)_5
+  - first:
+      213: -6220695052044019760
+    second: Doctor Die(with Mask)_6
+  - first:
+      213: -6471570567466245270
+    second: Doctor Die(with Mask)_7
+  - first:
+      213: 3901666097648337316
+    second: Doctor Die(with Mask)_8
+  - first:
+      213: -7995735242778977053
+    second: Doctor Die(with Mask)_9
+  - first:
+      213: -6968814341317415658
+    second: Doctor Die(with Mask)_10
+  - first:
+      213: 3815817865021428100
+    second: Doctor Die(with Mask)_11
+  - first:
+      213: -6083438564062372838
+    second: Doctor Die(with Mask)_12
+  - first:
+      213: -4738214947692405663
+    second: Doctor Die(with Mask)_13
+  - first:
+      213: 2194653551186949096
+    second: Doctor Die(with Mask)_14
+  - first:
+      213: -3572478518416366362
+    second: Doctor Die(with Mask)_15
+  - first:
+      213: -2334337488824850816
+    second: Doctor Die(with Mask)_16
+  - first:
+      213: -6196983071643873873
+    second: Doctor Die(with Mask)_17
+  - first:
+      213: -4723236648396897577
+    second: Doctor Die(with Mask)_18
+  - first:
+      213: 7964259712731840359
+    second: Doctor Die(with Mask)_19
+  - first:
+      213: -819895611231225494
+    second: Doctor Die(with Mask)_20
+  - first:
+      213: -8717385797006552584
+    second: Doctor Die(with Mask)_21
+  - first:
+      213: -2989120726616806026
+    second: Doctor Die(with Mask)_22
+  - first:
+      213: 6540817205308403028
+    second: Doctor Die(with Mask)_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead01aea7a3a42be0800000000000000
+      internalID: -1502896435050246738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365e2103eaaf5110800000000000000
+      internalID: 1251907113386399283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d982a23693b9ba20800000000000000
+      internalID: 3078689277960423891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbd92a8698e941b0800000000000000
+      internalID: -5671746522435691588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5f8ceedb46f75d0800000000000000
+      internalID: -3062618454670903813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2178
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c618f7d6f51aa10800000000000000
+      internalID: 1918919840131804294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7d2ee0fc6aba9a0800000000000000
+      internalID: -6220695052044019760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a632d435bdc5036a0800000000000000
+      internalID: -6471570567466245270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a18386d4a0852630800000000000000
+      internalID: 3901666097648337316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5610f821790190800000000000000
+      internalID: -7995735242778977053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_10
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da028674cc94f90800000000000000
+      internalID: -6968814341317415658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_11
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1452
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4811134912284f430800000000000000
+      internalID: 3815817865021428100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c56208bd8439ba0800000000000000
+      internalID: -6083438564062372838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c1955fb9a7e3eb0800000000000000
+      internalID: -4738214947692405663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33c8be6c9f47e10800000000000000
+      internalID: 2194653551186949096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4241e17b10c6ec0800000000000000
+      internalID: -3572478518416366362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_16
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086a7b8fb64ca9fd0800000000000000
+      internalID: -2334337488824850816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_17
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 726
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadce87bab4eff9a0800000000000000
+      internalID: -6196983071643873873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d242360b41b37eb0800000000000000
+      internalID: -4723236648396897577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ff554230cb68e60800000000000000
+      internalID: 7964259712731840359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_20
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6939ab19452f94f0800000000000000
+      internalID: -819895611231225494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19367edcf950780800000000000000
+      internalID: -8717385797006552584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_22
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d6f3349828486d0800000000000000
+      internalID: -2989120726616806026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor Die(with Mask)_23
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 800
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dab2fe796a5ca50800000000000000
+      internalID: 6540817205308403028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

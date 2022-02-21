@@ -1,0 +1,40 @@
+	
+--------------Doctor 2D----------------------------
+
+2D Animation Spritesheet of Cartoon Male Doctor.
+
+Whats new:
+	- 3 Virus Animations
+	- Gems,Coins, Shield fx
+Technical Details:-
+		
+		- FPS : 25
+		- Spritesheets : 12
+		- Variations : 2
+		- Animations : 6 (Idle,Run, Hit, Death, Jump)
+		- Resolution : Average 4000 Width and 2000 Height
+		- Character : Male Doctor
+
+Features:-
+	- Two character variation
+	- Stylised design
+	- Smooth animations
+	- Prefabs included
+	- Easy to change colors
+	- Demo scenes included
+	- Unique Animations
+	- High quality images
+	- Mobile supported
+	
+How to use:-
+	
+	Simply drag and drop any Spritesheet animation from the Prefab (Doctor 2D > Prefabs) folder
+	to you scene.
+
+..................................................................................
+
+About Us : We are "SR Studios Kerala", Game developing company located in Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thanks for downloading this package................................
