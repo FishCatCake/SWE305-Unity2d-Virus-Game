@@ -1,5 +1,5 @@
 # Unity2D Advantage Game
-Game Design and Development Final Assignemnt.
+Game Design and Development Final Assignment.
 # COVID IS COMING.
 ## Introduction
 ### Game Theme
