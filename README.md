@@ -21,8 +21,10 @@ Player is in a world full of deadly covid virus. The viruc in the first level is
   <img width="80" alt="image" src="https://user-images.githubusercontent.com/56536325/170646222-057d7162-af34-4dfa-8d79-085344c5a55c.png">
   <img width="100" alt="image" src="https://user-images.githubusercontent.com/56536325/170646239-ecbc148f-8827-4022-b26f-576f47f33bb2.png">
 </p>
-The game contains threee levels.
-The player can gain bonus such as medical masks, pills, protective clothing. The player are reqired to reach the end point before time and heath running out to clear each level. The difficulty will increase level by level and the corresponding bonus also increased. 
-To clear each level the doctor must avoid virus sttack and reach the end before the time ends.
+* The game contains threee levels.
+* The player can gain bonus such as medical masks, pills, protective clothing. 
+* The player are reqired to reach the end point before time and heath running out to clear each level. 
+* The difficulty will increase level by level and the corresponding bonus also increased. 
+* To clear each level the doctor must avoid virus sttack and reach the end before the time ends.
 ## Future Improvements
-Add more levels with different virus virant. 
+* Add more levels with different virus virant. 
